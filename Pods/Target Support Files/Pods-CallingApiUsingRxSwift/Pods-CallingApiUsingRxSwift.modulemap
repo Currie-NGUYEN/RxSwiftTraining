@@ -1,0 +1,6 @@
+framework module Pods_CallingApiUsingRxSwift {
+  umbrella header "Pods-CallingApiUsingRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
